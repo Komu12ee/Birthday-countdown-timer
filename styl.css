@@ -11,6 +11,7 @@
     background-size: cover;
 }
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Noto+Serif:ital@1&family=Nunito:ital@1&family=Rubik+Moonrocks&family=Source+Code+Pro&display=swap');
+ // here we are import a google font 
 .overlay{
     width: 100vw;
     height: 100vh;
