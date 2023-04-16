@@ -11,7 +11,7 @@
     background-size: cover;
 }
 @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital@1&family=Noto+Serif:ital@1&family=Nunito:ital@1&family=Rubik+Moonrocks&family=Source+Code+Pro&display=swap');
- // here we are import a google font 
+/*  here we are import a google font */
 .overlay{
     width: 100vw;
     height: 100vh;
@@ -61,3 +61,4 @@ input{
     text-align: center;
     font-size: 40px;
 }
+/* i have to see black shadow is not working perfectly */
